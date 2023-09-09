@@ -1,0 +1,20 @@
+[
+    {
+    "username":"absk.cts@gmail.com",
+    "password": "password@1234",
+    "age":25,
+    "company":"EY"
+},
+{
+    "username":"prag123@gmail.com",
+    "password": "password@1234",
+    "age":23,
+    "company":"CS"
+},
+{
+    "username":"hema345@gmail.com",
+    "password": "password@9876",
+    "age":20,
+    "company":"xyz"
+}
+]
