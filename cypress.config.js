@@ -22,6 +22,5 @@ module.exports = defineConfig({
   defaultCommandTimeout:10000,
   retries:1,
   screenshotsFolder:"cypress/screenshots",
-  screenshotOnRunFailure: true
-
+  screenshotOnRunFailure: true,
 });
